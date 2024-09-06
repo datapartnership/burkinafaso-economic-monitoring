@@ -10,10 +10,10 @@ parts:
       - file: docs/2-data
   - caption: Reusable Data Products
     chapters:
-      - file: docs/2-data
+      - file: docs/3-reusable-data-products
   - caption: Insights and Indicators
     chapters:
-      - file: docs/2-data
+      - file: docs/4-sample-insights-and-ind
   - caption: Acknowledgements
     chapters:
       - file: docs/6-team
