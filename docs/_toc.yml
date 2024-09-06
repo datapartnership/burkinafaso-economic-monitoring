@@ -9,10 +9,10 @@ parts:
     chapters:
       - file: docs/2-data
   - caption: Reusable Data Products
-      chapters:
+    chapters:
       - file: docs/2-data
   - caption: Insights and Indicators
-      chapters:
+    chapters:
       - file: docs/2-data
   - caption: Acknowledgements
     chapters:
