@@ -1,8 +1,8 @@
-# Data Products: Examples
+# Data Products
 
-**Reusable Data Products** are produced using the **Foundational Datasets** and can be further used to generate indicators and insights. All Data Products include documentation, references to original data sources (and/or information on how to access them), and a description of their limitations.
+**Reusable Data Products** can be used to generate indicators and insights. All Data Products include documentation, references to original data sources (and/or information on how to access them), and a description of their limitations.
 
-Each Data Product is produced according to the following outline:
+Each Data Product is presented in the web book according to the following outline:
 
 1. Data Product Overview
 
