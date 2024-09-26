@@ -2,28 +2,15 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Introduction to Data Goods
+  - caption: Introduction to the Data Lab
     chapters:
-      - file: docs/1-intro-to-data-goods
-  - caption: Data
+      - file: docs/1-intro-to-data-lab
+  - caption: Analytics
     chapters:
-      - file: docs/2-data
-  - caption: Reusable Data Products
-    chapters:
-      - file: docs/3-reusable-data-products
-  - caption: Insights and Indicators
-    chapters:
-      - file: docs/4-sample-insights-and-ind
-  - caption: Acknowledgements
-    chapters:
-      - file: docs/6-team
+      - file: docs/2-analytics
   - caption: Additional Resources
     chapters:
-      - url: https://datapartnership.org
-        title: Development Data Partnership
-      - url: https://wbdatalab.org
-        title: World Bank Data Lab
-      - url: https://www.worldbank.org/en/about/unit/unit-dec
-        title: World Bank DEC
-      - url: https://www.worldbank.org/en/research/dime
-        title: World Bank DIME
+      - file: docs/3-add-resources
+  - caption: Acknowledgements
+    chapters:
+      - file: docs/4-team
